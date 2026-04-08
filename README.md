@@ -8,10 +8,11 @@ To analyze Royal Challengers Bangalore (RCB) performance using SQL and Excel and
 - Excel (Data cleaning, analysis)
 
 # Key Insights
-- Identified top run scorers for RCB
-- Analyzed match performance trends across seasons
-- Evaluated player contributions and consistency
-- Found key patterns in wins and losses
+
+- RCB's top performers contributed majority of total runs
+- Middle-order inconsistency affected match outcomes
+- Certain seasons showed significant performance dips
+- Win rate improved when top-order performed well
 
 # Project Highlights
 - Used complex SQL queries for data extraction
